@@ -1,3 +1,7 @@
+![Screenshot_20250106-165516](https://github.com/user-attachments/assets/7809ee9d-a126-4e8a-b3e6-2f02d054fdbf)
+![Screenshot_20250106-165535](https://github.com/user-attachments/assets/75df3859-34b3-44da-9e48-5301920f90f0)
+![Screenshot_20250106-165441](https://github.com/user-attachments/assets/b36027b8-f157-4c81-a3a8-25c1ad343bdf)
+![Screenshot_20250101-103233~2](https://github.com/user-attachments/assets/8c422461-188d-4e15-b3e3-c03147e94e65)
 - 👋 Hi, I’m @Gods-doing98
 - 👀 I’m interested in software development,web development, surveying, designing and styling .
 - 🌱 I’m currently learning software development..
